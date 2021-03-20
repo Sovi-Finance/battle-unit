@@ -1,0 +1,15 @@
+{
+  "1": {
+    "name": "Soldier",
+    "attributes": [
+      "PoB",
+      "HP"
+    ]
+  },
+  "2": {
+    "name": "Defier",
+    "attributes": [
+      "Extra team production"
+    ]
+  }
+}
