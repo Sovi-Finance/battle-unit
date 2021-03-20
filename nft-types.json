@@ -1,0 +1,86 @@
+{
+  "1": {
+    "category": 2,
+    "nftType": 1,
+    "name": "Patrick",
+    "description": "Patrick",
+    "image": "https://static.sovi.finance/battle-unit/images/1.png"
+  },
+  "2": {
+    "category": 2,
+    "nftType": 2,
+    "name": "Angelina",
+    "description": "Angelina",
+    "image": "https://static.sovi.finance/battle-unit/images/2.png"
+  },
+  "3": {
+    "category": 2,
+    "nftType": 3,
+    "name": "Keith",
+    "description": "Keith",
+    "image": "https://static.sovi.finance/battle-unit/images/3.png"
+  },
+  "4": {
+    "category": 2,
+    "nftType": 4,
+    "name": "Athena",
+    "description": "Athena",
+    "image": "https://static.sovi.finance/battle-unit/images/4.png"
+  },
+  "5": {
+    "category": 2,
+    "nftType": 5,
+    "name": "Anita",
+    "description": "Anita",
+    "image": "https://static.sovi.finance/battle-unit/images/5.png"
+  },
+  "6": {
+    "category": 1,
+    "nftType": 6,
+    "name": "Michael Cohen",
+    "description": "Michael Cohen",
+    "image": "https://static.sovi.finance/battle-unit/images/6.png"
+  },
+  "7": {
+    "category": 1,
+    "nftType": 7,
+    "name": "Vince Lebar",
+    "description": "Vince Lebar",
+    "image": "https://static.sovi.finance/battle-unit/images/7.png"
+  },
+  "8": {
+    "category": 1,
+    "nftType": 8,
+    "name": "Michele Sindona",
+    "description": "Michele Sindona",
+    "image": "https://static.sovi.finance/battle-unit/images/8.png"
+  },
+  "9": {
+    "category": 1,
+    "nftType": 9,
+    "name": "Roberto Calvi",
+    "description": "Roberto Calvi",
+    "image": "https://static.sovi.finance/battle-unit/images/9.png"
+  },
+  "10": {
+    "category": 1,
+    "nftType": 10,
+    "name": "Luigi Ronsisvalle",
+    "description": "Luigi Ronsisvalle",
+    "image": "https://static.sovi.finance/battle-unit/images/10.png"
+  },
+  "11": {
+    "category": 1,
+    "nftType": 11,
+    "name": "Tinker",
+    "description": "Tinker",
+    "image": "https://static.sovi.finance/battle-unit/images/11.png"
+  },
+  "12": {
+    "category": 2,
+    "nftType": 12,
+    "name": "Psyche",
+    "description": "Psyche",
+    "image": "https://static.sovi.finance/battle-unit/images/12.png"
+  }
+}
