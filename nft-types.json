@@ -1,4 +1,11 @@
 {
+  "99999": {
+    "category": 1,
+    "nftType": 99999,
+    "name": "None",
+    "description": "None",
+    "image": "https://static.sovi.finance/battle-unit/images/99999.png"
+  },
   "1": {
     "category": 2,
     "nftType": 1,
@@ -82,5 +89,54 @@
     "name": "Psyche",
     "description": "Psyche",
     "image": "https://static.sovi.finance/battle-unit/images/12.png"
+  },
+  "13": {
+    "category": 2,
+    "nftType": 13,
+    "name": "Oliver",
+    "description": "Oliver",
+    "image": "https://static.sovi.finance/battle-unit/images/13.png"
+  },
+  "14": {
+    "category": 2,
+    "nftType": 14,
+    "name": "Eris",
+    "description": "Eris",
+    "image": "https://static.sovi.finance/battle-unit/images/14.png"
+  },
+  "15": {
+    "category": 1,
+    "nftType": 15,
+    "name": "Χάρων",
+    "description": "Χάρων",
+    "image": "https://static.sovi.finance/battle-unit/images/15.png"
+  },
+  "16": {
+    "category": 1,
+    "nftType": 16,
+    "name": "The Veil of the Swarm",
+    "description": "The Veil of the Swarm",
+    "image": "https://static.sovi.finance/battle-unit/images/16.png"
+  },
+  "17": {
+    "category": 1,
+    "nftType": 17,
+    "name": "Falcon",
+    "description": "Falcon",
+    "image": "https://static.sovi.finance/battle-unit/images/17.png"
+  },
+  "18": {
+    "category": 1,
+    "nftType": 18,
+    "name": "Avenger's Sting",
+    "description": "Avenger's Sting",
+    "image": "https://static.sovi.finance/battle-unit/images/18.png"
+  },
+  "19": {
+    "category": 1,
+    "nftType": 19,
+    "name": "Anna's Scapegoat",
+    "description": "Anna's Scapegoat",
+    "image": "https://static.sovi.finance/battle-unit/images/19.png"
   }
 }
