@@ -10,133 +10,133 @@
     "category": 2,
     "nftType": 1,
     "name": "Patrick",
-    "description": "Patrick",
+    "description": "Patrick is Keith's followers. Regional leader near Vatican.",
     "image": "https://static.sovi.finance/battle-unit/images/1.png"
   },
   "2": {
     "category": 2,
     "nftType": 2,
     "name": "Angelina",
-    "description": "Angelina",
+    "description": "Angelina is Keith's followers. Regional leader near Vatican with Patrick.",
     "image": "https://static.sovi.finance/battle-unit/images/2.png"
   },
   "3": {
     "category": 2,
     "nftType": 3,
     "name": "Keith",
-    "description": "Keith",
+    "description": "Keith is the grassroot trading movement leader that beat Wallstreet at their own games.",
     "image": "https://static.sovi.finance/battle-unit/images/3.png"
   },
   "4": {
     "category": 2,
     "nftType": 4,
     "name": "Athena",
-    "description": "Athena",
+    "description": "Greek Godess of Wisdom, war and art.",
     "image": "https://static.sovi.finance/battle-unit/images/4.png"
   },
   "5": {
     "category": 2,
     "nftType": 5,
     "name": "Anita",
-    "description": "Anita",
+    "description": "Anita is Marlow's robot. But she doesn't know that she is a robot.",
     "image": "https://static.sovi.finance/battle-unit/images/5.png"
   },
   "6": {
     "category": 1,
     "nftType": 6,
     "name": "Michael Cohen",
-    "description": "Michael Cohen",
+    "description": "Michael Cohen is Keith's followers. Kyoto regional leader.",
     "image": "https://static.sovi.finance/battle-unit/images/6.png"
   },
   "7": {
     "category": 1,
     "nftType": 7,
     "name": "Vince Lebar",
-    "description": "Vince Lebar",
+    "description": "The young Yale graduate who is ascending the social ladder under Marlow’s care. Manager Director of Twin-F Fund.",
     "image": "https://static.sovi.finance/battle-unit/images/7.png"
   },
   "8": {
     "category": 1,
     "nftType": 8,
     "name": "Michele Sindona",
-    "description": "Michele Sindona",
+    "description": "God’s banker. Il Burattinaio’s footman No.1, white glove, laundering 225 million dollars mafia’s money to Rome; Italy has been requesting his extradition from the U.S. Federal Prison to stand trial for murder.",
     "image": "https://static.sovi.finance/battle-unit/images/8.png"
   },
   "9": {
     "category": 1,
     "nftType": 9,
     "name": "Roberto Calvi",
-    "description": "Roberto Calvi",
+    "description": "God’s banker. Il Burattinaio’s footman No. 2., stealing one billion dollars from the Bank of Italy.",
     "image": "https://static.sovi.finance/battle-unit/images/9.png"
   },
   "10": {
     "category": 1,
     "nftType": 10,
     "name": "Luigi Ronsisvalle",
-    "description": "Luigi Ronsisvalle",
+    "description": "Mafia member, professional hitman. Threatening the life of witness, Nicola Biase in Sindona’s extradition case; also a contractor on the life of assistant United States attorney John Kenny, for just $100,000.",
     "image": "https://static.sovi.finance/battle-unit/images/10.png"
   },
   "11": {
     "category": 1,
     "nftType": 11,
     "name": "Tinker",
-    "description": "Tinker",
+    "description": "Archer Norton’s magical weapon for time manipulation. Inspired by the Demon King T35NCB3J’s teaching, “Time flies and passing one’s life in acceleration.” Tinker is the feather on time arrows that changes its velocity.",
     "image": "https://static.sovi.finance/battle-unit/images/11.png"
   },
   "12": {
     "category": 2,
     "nftType": 12,
     "name": "Psyche",
-    "description": "Psyche",
+    "description": "Psyche is Rachel's god form. A higher self she invokes when goes into battle.",
     "image": "https://static.sovi.finance/battle-unit/images/12.png"
   },
   "13": {
     "category": 2,
     "nftType": 13,
     "name": "Oliver",
-    "description": "Oliver",
+    "description": "A goblin that knows where the magical treasure hides.",
     "image": "https://static.sovi.finance/battle-unit/images/13.png"
   },
   "14": {
     "category": 2,
     "nftType": 14,
     "name": "Eris",
-    "description": "Eris",
+    "description": "I am chaos. Order, the illusory veil drapes over me.",
     "image": "https://static.sovi.finance/battle-unit/images/14.png"
   },
   "15": {
     "category": 1,
     "nftType": 15,
     "name": "Χάρων",
-    "description": "Χάρων",
+    "description": "Charon, First-Frontier Temple’s clergies ferrying time travelers at the border of each stations.",
     "image": "https://static.sovi.finance/battle-unit/images/15.png"
   },
   "16": {
     "category": 1,
     "nftType": 16,
     "name": "The Veil of the Swarm",
-    "description": "The Veil of the Swarm",
+    "description": "Eris’s veil. Beneath the orderly waggle dance, there is chaos.",
     "image": "https://static.sovi.finance/battle-unit/images/16.png"
   },
   "17": {
     "category": 1,
     "nftType": 17,
     "name": "Falcon",
-    "description": "Falcon",
+    "description": "Temple of the First-Frontier’s warrior monks",
     "image": "https://static.sovi.finance/battle-unit/images/17.png"
   },
   "18": {
     "category": 1,
     "nftType": 18,
     "name": "Avenger's Sting",
-    "description": "Avenger's Sting",
+    "description": "A bee avenges itself with a suicidal sting. Forged with the same curse on the Roman pugio that killed Caesar.",
     "image": "https://static.sovi.finance/battle-unit/images/18.png"
   },
   "19": {
     "category": 1,
     "nftType": 19,
     "name": "Anna's Scapegoat",
-    "description": "Anna's Scapegoat",
+    "description": "The pugio that killed Julius Caesar (etched on it EID.MAR, the date Romans settle all debts.)",
     "image": "https://static.sovi.finance/battle-unit/images/19.png"
   }
 }
