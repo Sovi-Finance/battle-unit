@@ -3,6 +3,7 @@
     "category": 1,
     "nftType": 99999,
     "name": "None",
+    "level": 1,
     "description": "None",
     "image": "https://static.sovi.finance/battle-unit/images/99999.png"
   },
@@ -10,6 +11,7 @@
     "category": 2,
     "nftType": 1,
     "name": "Patrick",
+    "level": 1,
     "description": "Patrick is Keith's followers. Regional leader near Vatican.",
     "image": "https://static.sovi.finance/battle-unit/images/1.png"
   },
@@ -17,6 +19,7 @@
     "category": 2,
     "nftType": 2,
     "name": "Angelina",
+    "level": 1,
     "description": "Angelina is Keith's followers. Regional leader near Vatican with Patrick.",
     "image": "https://static.sovi.finance/battle-unit/images/2.png"
   },
@@ -24,6 +27,7 @@
     "category": 2,
     "nftType": 3,
     "name": "Keith",
+    "level": 1,
     "description": "Keith is the grassroot trading movement leader that beat Wallstreet at their own games.",
     "image": "https://static.sovi.finance/battle-unit/images/3.png"
   },
@@ -31,6 +35,7 @@
     "category": 2,
     "nftType": 4,
     "name": "Athena",
+    "level": 1,
     "description": "Greek Godess of Wisdom, war and art.",
     "image": "https://static.sovi.finance/battle-unit/images/4.png"
   },
@@ -38,6 +43,7 @@
     "category": 2,
     "nftType": 5,
     "name": "Anita",
+    "level": 1,
     "description": "Anita is Marlow's robot. But she doesn't know that she is a robot.",
     "image": "https://static.sovi.finance/battle-unit/images/5.png"
   },
@@ -45,6 +51,7 @@
     "category": 1,
     "nftType": 6,
     "name": "Michael Cohen",
+    "level": 1,
     "description": "Michael Cohen is Keith's followers. Kyoto regional leader.",
     "image": "https://static.sovi.finance/battle-unit/images/6.png"
   },
@@ -52,6 +59,7 @@
     "category": 1,
     "nftType": 7,
     "name": "Vince Lebar",
+    "level": 1,
     "description": "The young Yale graduate who is ascending the social ladder under Marlow’s care. Manager Director of Twin-F Fund.",
     "image": "https://static.sovi.finance/battle-unit/images/7.png"
   },
@@ -59,6 +67,7 @@
     "category": 1,
     "nftType": 8,
     "name": "Michele Sindona",
+    "level": 1,
     "description": "God’s banker. Il Burattinaio’s footman No.1, white glove, laundering 225 million dollars mafia’s money to Rome; Italy has been requesting his extradition from the U.S. Federal Prison to stand trial for murder.",
     "image": "https://static.sovi.finance/battle-unit/images/8.png"
   },
@@ -66,6 +75,7 @@
     "category": 1,
     "nftType": 9,
     "name": "Roberto Calvi",
+    "level": 1,
     "description": "God’s banker. Il Burattinaio’s footman No. 2., stealing one billion dollars from the Bank of Italy.",
     "image": "https://static.sovi.finance/battle-unit/images/9.png"
   },
@@ -73,6 +83,7 @@
     "category": 1,
     "nftType": 10,
     "name": "Luigi Ronsisvalle",
+    "level": 1,
     "description": "Mafia member, professional hitman. Threatening the life of witness, Nicola Biase in Sindona’s extradition case; also a contractor on the life of assistant United States attorney John Kenny, for just $100,000.",
     "image": "https://static.sovi.finance/battle-unit/images/10.png"
   },
@@ -80,6 +91,7 @@
     "category": 1,
     "nftType": 11,
     "name": "Tinker",
+    "level": 1,
     "description": "Archer Norton’s magical weapon for time manipulation. Inspired by the Demon King T35NCB3J’s teaching, “Time flies and passing one’s life in acceleration.” Tinker is the feather on time arrows that changes its velocity.",
     "image": "https://static.sovi.finance/battle-unit/images/11.png"
   },
@@ -87,6 +99,7 @@
     "category": 2,
     "nftType": 12,
     "name": "Psyche",
+    "level": 1,
     "description": "Psyche is Rachel's god form. A higher self she invokes when goes into battle.",
     "image": "https://static.sovi.finance/battle-unit/images/12.png"
   },
@@ -94,6 +107,7 @@
     "category": 2,
     "nftType": 13,
     "name": "Oliver",
+    "level": 1,
     "description": "A goblin that knows where the magical treasure hides.",
     "image": "https://static.sovi.finance/battle-unit/images/13.png"
   },
@@ -101,6 +115,7 @@
     "category": 2,
     "nftType": 14,
     "name": "Eris",
+    "level": 1,
     "description": "I am chaos. Order, the illusory veil drapes over me.",
     "image": "https://static.sovi.finance/battle-unit/images/14.png"
   },
@@ -108,6 +123,7 @@
     "category": 1,
     "nftType": 15,
     "name": "Χάρων",
+    "level": 1,
     "description": "Charon, First-Frontier Temple’s clergies ferrying time travelers at the border of each stations.",
     "image": "https://static.sovi.finance/battle-unit/images/15.png"
   },
@@ -115,6 +131,7 @@
     "category": 1,
     "nftType": 16,
     "name": "The Veil of the Swarm",
+    "level": 1,
     "description": "Eris’s veil. Beneath the orderly waggle dance, there is chaos.",
     "image": "https://static.sovi.finance/battle-unit/images/16.png"
   },
@@ -122,6 +139,7 @@
     "category": 1,
     "nftType": 17,
     "name": "Falcon",
+    "level": 1,
     "description": "Temple of the First-Frontier’s warrior monks",
     "image": "https://static.sovi.finance/battle-unit/images/17.png"
   },
@@ -129,6 +147,7 @@
     "category": 1,
     "nftType": 18,
     "name": "Avenger's Sting",
+    "level": 1,
     "description": "A bee avenges itself with a suicidal sting. Forged with the same curse on the Roman pugio that killed Caesar.",
     "image": "https://static.sovi.finance/battle-unit/images/18.png"
   },
@@ -136,7 +155,40 @@
     "category": 1,
     "nftType": 19,
     "name": "Anna's Scapegoat",
+    "level": 1,
     "description": "The pugio that killed Julius Caesar (etched on it EID.MAR, the date Romans settle all debts.)",
     "image": "https://static.sovi.finance/battle-unit/images/19.png"
+  },
+  "20": {
+    "category": 2,
+    "nftType": 20,
+    "name": "Gandhi",
+    "level": 1,
+    "description": "Gandhi wants to create a top that will never stop spinning. In the day and night search, he fell into a boundless dream with no exit. Trekking like an ascetic in the area where fantasy and reality are intertwined, but inadvertently sees the law of the universe, which is the source of dream power. He came back with the power, and it has been years since he woke up.",
+    "image": "https://static.sovi.finance/battle-unit/images/20.png"
+  },
+  "21": {
+    "category": 1,
+    "nftType": 21,
+    "name": "Space Snake",
+    "level": 1,
+    "description": "This snake coiled on the path of dreams, and guided Gandhi out of danger when he fell into the desert of dreams, dying. As a messenger of dreams, it has a keen sense of smell. It not only helps those who seek the truth to lead the way, but also gives a deadly fang to those who are hypocritical.",
+    "image": "https://static.sovi.finance/battle-unit/images/21.png"
+  },
+  "22": {
+    "category": 1,
+    "nftType": 22,
+    "name": "Dream Shaper",
+    "level": 1,
+    "description": "Nafpliotou is the dream shaper. She will capture and record everyone's dreams and condense them into crystals of different colors to supplement the energy of the dream world. It was she who saw the unique dream energy of the prophet Gandhi and introduced him into the dream world.",
+    "image": "https://static.sovi.finance/battle-unit/images/22.png"
+  },
+  "23": {
+    "category": 1,
+    "nftType": 23,
+    "name": "Spinning Top",
+    "level": 1,
+    "description": "Spinning Top",
+    "image": "https://static.sovi.finance/battle-unit/images/23.png"
   }
 }
